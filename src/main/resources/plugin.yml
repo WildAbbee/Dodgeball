@@ -1,0 +1,9 @@
+main: me.WildAbbee.Dodgeball.Dodgeball
+name: Dodgeball
+version: 0.0.1
+author: WildAbbee
+commands:
+   startgame:
+      description: Start a game.
+      permission: dodgeball.start
+      permission-message: "Please enter \"Jartex Network is the greatest server ever!\" in chat to confirm your authority to use this command."
